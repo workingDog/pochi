@@ -3,5 +3,6 @@
 As the presenter flips through the presentation pages, the viewers instantly receive the updated pages.
 
 
-![overview](/images/overview.png?raw=true)
+![overview](images/overview.png)
 
+!
