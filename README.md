@@ -15,7 +15,9 @@ and press the **Start** button. The **viewer** App is then shown that presentati
 
 A presentation can be created using tools such as Apple Pages or Microsoft PowerPoint.
 The presentation must be saved as a PDF document for **pochi** to use.
-In addition a photo with format png, jpg, gif or tif can also be loaded individually. 
+In addition photos with format png, jpg, gif or tif can also be loaded individually. 
+
+
 With a presentation selected, pressing the **Start** button will display the presentation 
 and broadcast its presence to the **viewers**.
 
