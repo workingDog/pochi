@@ -5,4 +5,3 @@ As the presenter flips through the presentation pages, the viewers instantly rec
 
 ![overview](images/overview.png)
 
-!
