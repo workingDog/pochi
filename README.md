@@ -7,12 +7,17 @@ As the presenter flips through the presentation pages, the viewers instantly rec
 **Pochi** is really two applications, one is the **presenter** App and the other is the **viewer** App.
 
 With the **presenter** App, a presenter selects a presentation from the device files folder, iCloud, DropBox or other storage, 
-and press the start button. The **viewer** App is then shown that presentation for viewers to follow.
+and press the start button. The **viewer** App is then shown that presentation name for viewers to select.
 
 ## The presenter App
 
 ![presenter](images/presenterpage1.png)
 
+
+
+
+
+## The viewer App
 
 
 
