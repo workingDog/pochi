@@ -13,17 +13,21 @@ and press the **Start** button. The **viewer** App is then shown that presentati
 
 ![presenter](images/presenterpage1.png)
 
-A presentation can be created using such tools as Apple Pages or Microsoft PowerPoint.
-Such presentation must be saved as a PDF document for **pochi** to use.
+A presentation can be created using tools such as Apple Pages or Microsoft PowerPoint.
+The presentation must be saved as a PDF document for **pochi** to use.
 In addition a photo with format png, jpg, gif or tif can also be loaded individually. 
- 
+With a presentation selected, pressing the **Start** button will display the presentation 
+and broadcast its presence to the **viewers**.
+
+![presenter](images/presenterpage2.png)
+
 A presentation name with a gray background indicates the selected presentation. To deselect a 
 presentation simply tap the selection again.
 
 When no presentation is selected and the **Start** button is pressed, **pochi** will display a 
 collection of whiteboards for the presenter to draw on.
 
-
+![presenter](images/presenterpage3.png)
 
 ## The viewer App
 
