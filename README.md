@@ -13,8 +13,10 @@ and press the start button. The **viewer** App is then shown that presentation n
 
 ![presenter](images/presenterpage1.png)
 
-
-
+A presentation can be created using such tools as Apple Pages or Microsoft PowerPoint.
+Such presentation must be saved as a PDF document for **pochi** to use.
+In addition a photo with format png, jpg, gif or tif can also be loaded individually. 
+ 
 
 
 ## The viewer App
