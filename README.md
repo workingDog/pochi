@@ -11,7 +11,7 @@ and press the start button. The *viewer* App is then shown that presentation for
 
 ## The presenter App
 
-![presenter](images/presenter1.png)
+![presenter](images/presenterpage.png)
 
 
 
