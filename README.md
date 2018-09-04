@@ -67,3 +67,9 @@ When all pages have been downloaded, only the title will be displayed.
 The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation by pressing 
 the **share** button. Note that sharing will only use the current number of pages downloaded to date.
  
+# Pochi assist
+
+<pochi.assist@gmail.com>
+
+ 
+ 
