@@ -13,7 +13,7 @@ a presenter selects a presentation from the device files folder, iCloud, DropBox
 and press the **Start** button. The **Pochi Viewer** App is then presented with the presentation 
 name for the viewer to follow.
 
-## The presenter App
+# The Presenter App
 
 ![presenter](images/presenterpage1.png)
 
@@ -39,7 +39,7 @@ consist of 3 whiteboards, 3 green chalkboards and 3 blackboards.
 
 ![presenter](images/presenterpage4.png)
 
-## The viewer App
+# The Viewer App
 
 The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....
 
