@@ -34,7 +34,8 @@ A presentation can be annotated using the drawing tool provided when pressing th
 ![presenter](images/presenterpage3.png)
 
 When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
-collection of empty whiteboards for the presenter to draw on using the draw tool.
+collection of empty whiteboards for the presenter to draw on using the drawing tool. The board collection 
+consist of 4 whiteboards, a green chalkboard and a blackboard.
 
 ![presenter](images/presenterpage4.png)
 
