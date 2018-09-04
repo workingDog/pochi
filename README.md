@@ -21,7 +21,7 @@ A presentation can be created using a number of tools such as *Apple Pages or Pr
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
-A presentation can optionally be protected with a password. If set, viewers will be asked 
+A presentation can optionally require a password. If required, viewers will be asked 
 for the password in order to view the presentation.
 
 A presentation name with a gray background indicates the presentation is selected. 
