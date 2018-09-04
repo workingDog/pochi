@@ -4,11 +4,12 @@ As the presenter flips through the presentation pages, the viewer devices instan
 
 ![overview](images/overview.png)
 
-**Pochi** is really two applications, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
+**Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
-the **Pochi Viewer** App is used only to view the presentation, it has the **Presenter** functions disabled.
+the **Pochi Viewer** App is used only to view the presentation, it has the *presenter* functions disabled.
+The **Pochi Presenter** App always includes the **Pochi Viewer** App. Both Apps need to be connected to the same local *WI-FI* network to work with each other.
 
-The **Pochi Presenter** App always includes the **Pochi Viewer** App. With the **Pochi Presenter** App, 
+With the **Pochi Presenter** App, 
 a presenter selects a presentation from the device *Files folder, iCloud, DropBox* or other storage, 
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
@@ -21,26 +22,31 @@ A presentation can be created using a number of tools such as *Apple Pages or Pr
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
-A presentation can optionally require a password. If required, viewers will be asked 
+A presentation can optionally require a password. When set, viewers will be asked 
 for the password in order to view the presentation.
 
 A presentation name with a gray background indicates the presentation is selected. 
 To deselect a presentation simply tap the selection again. 
 
 With a presentation selected, pressing the **Start** button will display the presentation 
-and broadcast its presence to the **Pochi Viewer** Apps. 
+and broadcast its presence to the **Pochi Viewer** Apps using the local *WI-FI* network. 
 
 ![presenter](images/presenterpage2.png)
 
-A presentation can be annotated using the drawing tool provided when pressing the draw tool icon.
+Different pages can be selected using the thumbnail bar or by swiping left and right.
+ 
+A presentation can be annotated using the drawing tool provided after pressing the draw tool icon.
 
 ![presenter](images/presenterpage3.png)
 
 When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
 collection of empty whiteboards for the presenter to draw on using the drawing tool. The board collection 
-consist of 3 whiteboards, 3 green chalkboards and 3 blackboards.
+consist of 3 whiteboards, 3 chalkboards and 3 blackboards.
 
 ![presenter](images/presenterpage4.png)
+
+When not in drawing mode, tapping on the presentation or whiteboard will hide or show the navigation bar 
+and the thumbnail pages, however swiping left and right to change page remains active.
 
 # The Viewer App
 
