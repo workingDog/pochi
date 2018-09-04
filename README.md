@@ -17,10 +17,11 @@ name for the viewer to follow.
 
 ![presenter](images/presenterpage1.png)
 
-A presentation can be created using tools such as *Apple Pages*, *Microsoft PowerPoint*, 
-*Adobe PDF tools* or *Apple Preview*.
+A presentation can be created using tools such as *Apple Pages or Preview*, *Microsoft PowerPoint* or 
+*Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
+
 A presentation name with a gray background indicates the presentation is selected. 
 To deselect a presentation simply tap the selection again. 
 
@@ -41,24 +42,25 @@ consist of 3 whiteboards, 3 green chalkboards and 3 blackboards.
 
 # The Viewer App
 
-The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....
+The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....eventually.
 
 The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App.
 It is used to passively view the presentation. 
 
 The main page of the **Pochi Viewer** App shows a list of active presentations. 
-The user select the presentation to follow by tapping on the desired presentation name.
+The user selects the presentation to follow by tapping on the desired presentation name.
 
 It takes a few seconds for a presentation to appear in the list. If a presentation is expected, 
-but there is no presentation shown in the list, try pressing the **Refresh** button.
+but it is not shown in the list, try pressing the **Refresh** button.
  
 ![viewer](images/viewerpage1.png)
 
 Once a presentation is selected, the App will download the full presentation in the background. The 
-current number of pages downloaded to date is displayed next to the presentation name.
+current number of pages downloaded to date is displayed next to the presentation name. 
+When all pages have been downloaded, only the title will be displayed.
  
 ![viewer](images/viewerpage2.png)
 
-The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation, by pressing 
+The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation by pressing 
 the **share** button. Note that sharing will only use the current number of pages downloaded to date.
  
