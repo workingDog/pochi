@@ -1,6 +1,6 @@
 
 **Pochi** allows a presenter with an iPad or iPhone to share a presentation with a number of other iPads and iPhones. 
-As the presenter flips through the presentation pages, the viewer devices instantly receive the updated pages.
+As the presenter flips through the presentation pages, the viewer devices instantly and securely receive the updated pages.
 
 ![overview](images/overview.png)
 
