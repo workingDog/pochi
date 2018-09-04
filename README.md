@@ -28,6 +28,9 @@ To deselect a presentation simply tap the selection again.
 With a presentation selected, pressing the **Start** button will display the presentation 
 and broadcast its presence to the **Pochi Viewer** Apps. 
 
+A presentation can optionally be protected with a password. If set, viewers will be asked for the 
+password in order to view the presentation.
+
 ![presenter](images/presenterpage2.png)
 
 A presentation can be annotated using the drawing tool provided when pressing the draw tool icon.
