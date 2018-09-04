@@ -41,10 +41,18 @@ consist of 3 whiteboards, 3 green chalkboards and 3 blackboards.
 
 ## The viewer App
 
+The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....
+
 The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App.
-It is used to passively view the presentation.
+It is used to passively view the presentation. 
 
+The main page of the **Pochi Viewer** App shows a list of active presentations. 
+The user select the presentation to follow by tapping on the desired presentation name.
 
+It takes a few seconds for a presentation to appear in the list. If a presentation is expected, 
+but there is no presentation shown in the list, try pressing the **Refresh** button.
+ 
+![viewer](images/viewerpage1.png)
 
 
  
