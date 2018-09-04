@@ -6,7 +6,7 @@ As the presenter flips through the presentation pages, the viewer devices instan
 
 **Pochi** is really two applications, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
-the **Pochi Viewer** App is used only to view the presentation.
+the **Pochi Viewer** App is used only to view the presentation, it has the **Presenter** functions disabled.
 
 The **Pochi Presenter** App always includes the **Pochi Viewer** App. With the **Pochi Presenter** App, 
 a presenter selects a presentation from the device files folder, iCloud, DropBox or other storage, 
@@ -54,5 +54,11 @@ but there is no presentation shown in the list, try pressing the **Refresh** but
  
 ![viewer](images/viewerpage1.png)
 
+Once a presentation is selected, the App will download the full presentation in the background. The 
+current number of pages downloaded to date is displayed next to the presentation name.
+ 
+![viewer](images/viewerpage2.png)
 
+The **Pochi Viewer** App allows for printing, saving and sharing of the presentation, by pressing 
+the **share** button. Note that sharing will only use the current number of pages downloaded to date.
  
