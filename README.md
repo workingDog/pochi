@@ -1,6 +1,6 @@
 
 **Pochi** allows a presenter with an iPad or iPhone to share a presentation with a number of other iPads and iPhones. 
-As the presenter flips through the presentation pages, the viewers device instantly receive the updated pages.
+As the presenter flips through the presentation pages, the viewer devices instantly receive the updated pages.
 
 ![overview](images/overview.png)
 
@@ -17,7 +17,8 @@ name for the viewer to follow.
 
 ![presenter](images/presenterpage1.png)
 
-A presentation can be created using tools such as *Apple Pages* or *Microsoft PowerPoint*.
+A presentation can be created using tools such as *Apple Pages*, *Microsoft PowerPoint*, 
+*Adobe PDF tools* or *Apple Preview*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
 A presentation name with a gray background indicates the presentation is selected. 
@@ -33,7 +34,7 @@ A presentation can be annotated using the drawing tool provided when pressing th
 ![presenter](images/presenterpage3.png)
 
 When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
-collection of whiteboards for the presenter to draw on using the draw tool provided.
+collection of empty whiteboards for the presenter to draw on using the draw tool.
 
 ![presenter](images/presenterpage4.png)
 
