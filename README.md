@@ -40,7 +40,7 @@ A presentation can be annotated using the drawing tool provided after pressing t
 ![presenter](images/presenterpage3.png)
 
 When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
-collection of empty whiteboards for the presenter to draw on using the drawing tool. The board collection 
+collection of empty whiteboards for the presenter to draw on using the drawing tool. The boards 
 consist of 3 whiteboards, 3 chalkboards and 3 blackboards.
 
 ![presenter](images/presenterpage4.png)
@@ -52,8 +52,7 @@ and the thumbnail pages, however swiping left and right to change page remains a
 
 The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....eventually.
 
-The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App.
-It is used to passively view the presentation. 
+The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App, it is used to passively view the presentation. 
 
 The main page of the **Pochi Viewer** App shows a list of active presentations. 
 The user selects the presentation to follow by tapping on the desired presentation name.
