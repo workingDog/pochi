@@ -9,15 +9,15 @@ The **Pochi Presenter** App is used by presenters to share and interact with the
 the **Pochi Viewer** App is used only to view the presentation, it has the **Presenter** functions disabled.
 
 The **Pochi Presenter** App always includes the **Pochi Viewer** App. With the **Pochi Presenter** App, 
-a presenter selects a presentation from the device files folder, iCloud, DropBox or other storage, 
-and press the **Start** button. The **Pochi Viewer** App is then presented with the presentation 
-name for the viewer to follow.
+a presenter selects a presentation from the device *Files folder, iCloud, DropBox* or other storage, 
+and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
+by selecting it from a list.
 
 # The Presenter App
 
 ![presenter](images/presenterpage1.png)
 
-A presentation can be created using tools such as *Apple Pages or Preview*, *Microsoft PowerPoint* or 
+A presentation can be created using a number of tools such as *Apple Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
