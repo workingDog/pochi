@@ -59,6 +59,6 @@ current number of pages downloaded to date is displayed next to the presentation
  
 ![viewer](images/viewerpage2.png)
 
-The **Pochi Viewer** App allows for printing, saving and sharing of the presentation, by pressing 
+The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation, by pressing 
 the **share** button. Note that sharing will only use the current number of pages downloaded to date.
  
