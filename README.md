@@ -14,10 +14,10 @@ a presenter selects a presentation from the device *Files folder, iCloud, DropBo
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
-The **Pochi Viewer** App is **FREE** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
-The **Pochi Viewer** App has the *presenter* functions disabled after *7 days*.
+The **Pochi Viewer** App is *free* and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
+The **Pochi Viewer** App has the *Presenter* functions disabled after *7 days*.
 
-The **Pochi Presenter** App cost **xxx** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8)
+The **Pochi Presenter** App cost **$5** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8)
 
 # The Presenter App
 
@@ -72,7 +72,7 @@ When all pages have been downloaded, only the title will be displayed.
 ![viewer](images/viewerpage2.png)
 
 The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation by pressing 
-the **share** button. Note that sharing will only use the current number of pages downloaded to date.
+the **share** button. Note that these functions will use the current number of pages downloaded to date.
  
 # Pochi assist
 
