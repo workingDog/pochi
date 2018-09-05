@@ -10,7 +10,7 @@ the **Pochi Viewer** App is used by the audience to view the presentation.
 Both Apps need to be connected to the same local *WI-FI* network to work with each other.
 
 With the **Pochi Presenter** App, 
-a presenter selects a presentation from the device *Files folder, iCloud, DropBox* or other storage, 
+a presenter selects a presentation from the device *Files folder, iCloud, Dropbox* or other storage, 
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
