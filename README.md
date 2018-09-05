@@ -14,10 +14,10 @@ a presenter selects a presentation from the device *Files folder, iCloud, DropBo
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
-The **Pochi Viewer** App is *free* and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
+The **Pochi Viewer** App is *free* and can be downloaded from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Viewer** App has the *Presenter* functions disabled after *7 days*.
 
-The **Pochi Presenter** App cost **$5** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
+The **Pochi Presenter** App cost **$5** and can be downloaded from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
 # The Presenter App
