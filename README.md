@@ -6,8 +6,8 @@ As the presenter flips through the presentation pages, the viewer devices instan
 
 **Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
-the **Pochi Viewer** App is used to view the presentation.
-The **Pochi Presenter** App always includes the **Pochi Viewer** App. Both Apps need to be connected to the same local *WI-FI* network to work with each other.
+the **Pochi Viewer** App is used by the audience to view the presentation.
+Both Apps need to be connected to the same local *WI-FI* network to work with each other.
 
 With the **Pochi Presenter** App, 
 a presenter selects a presentation from the device *Files folder, iCloud, DropBox* or other storage, 
@@ -17,7 +17,8 @@ by selecting it from a list.
 The **Pochi Viewer** App is *free* and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Viewer** App has the *Presenter* functions disabled after *7 days*.
 
-The **Pochi Presenter** App cost **$5** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8)
+The **Pochi Presenter** App cost **$5** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
+The **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
 # The Presenter App
 
