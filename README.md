@@ -14,6 +14,10 @@ a presenter selects a presentation from the device *Files folder, iCloud, DropBo
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
+The **Pochi Viewer** App is **FREE** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8)
+
+The **Pochi Presenter** App cost **xxx** and can be downloaded (not yet) from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8)
+
 # The Presenter App
 
 ![presenter](images/presenterpage1.png)
@@ -49,8 +53,6 @@ When not in drawing mode, tapping on the presentation or whiteboard will hide or
 and the thumbnail pages, however swiping left and right to change page remains active.
 
 # The Viewer App
-
-The **Pochi Viewer** App is **FREE** and can be downloaded at **the Apple Store** ....eventually.
 
 The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App, it is used to passively view the presentation. 
 
