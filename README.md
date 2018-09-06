@@ -27,7 +27,7 @@ The **Pochi Presenter** App includes the **Pochi Viewer** App.
 A presentation can be created using a number of tools such as *Apple Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
-In addition photos with format *png, jpg, gif or tif* can also be loaded individually. 
+In addition photos with format *png, jpg, jpeg, gif or tif* can also be loaded individually. 
 A presentation can optionally require a password. When set, viewers will be asked 
 for the password in order to view the presentation.
 
