@@ -7,7 +7,7 @@ As the presenter flips through the presentation pages, the viewer devices instan
 **Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
 the **Pochi Viewer** App is used by the audience to view the presentation.
-Both Apps need to be connected to the same local *WI-FI* network to work with each other.
+Both Apps need to be connected to the same local *Wi-Fi* network to work with each other.
 
 With the **Pochi Presenter** App, 
 a presenter selects a presentation from the device *Files folder, iCloud, Dropbox* or other storage, 
@@ -35,7 +35,7 @@ A presentation name with a gray background indicates the presentation is selecte
 To deselect a presentation simply tap the selection again. 
 
 With a presentation selected, pressing the **Start** button will display the presentation 
-and broadcast its presence to the **Pochi Viewer** Apps using the local *WI-FI* network. 
+and broadcast its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
 
 ![presenter](images/presenterpage2.png)
 
@@ -66,9 +66,9 @@ but it is not shown in the list, try pressing the **Refresh** button.
  
 ![viewer](images/viewerpage1.png)
 
-Once a presentation is selected, the App will download the full presentation in the background. The 
-current number of pages downloaded to date is displayed next to the presentation name. 
-When all pages have been downloaded, only the title will be displayed.
+Once a presentation is selected, the current page will be displayed and the App will download the full presentation in the background. 
+The number of pages downloaded to date is displayed next to the presentation name. 
+When all pages have been downloaded, only the title name will be displayed.
  
 ![viewer](images/viewerpage2.png)
 
