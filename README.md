@@ -79,5 +79,12 @@ the **share** button. Note that these functions will use the current number of p
 
 <pochi.assist@gmail.com>
 
+# Privacy Policy
  
+The following *Privacy Policy* applies to **Pochi Presenter App** and **Pochi Viewer App**.
  
+**Pochi Presenter App** and **Pochi Viewer App** do not;
+ 
+    collect, access or disclose any personal information,
+    collect, access or record any location information,
+    collect, access or record any other information.
