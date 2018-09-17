@@ -15,7 +15,7 @@ and press the **Start** button. The **Pochi Viewer** App is then able to follow 
 by selecting it from a list.
 
 The **Pochi Viewer** App is *free* and can be downloaded from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
-The **Pochi Viewer** App has the *Presenter* functions disabled after *7 days*.
+The **Pochi Viewer** App includes a trial *Presenter* function that is disabled after *7 days*.
 
 The **Pochi Presenter** App cost **$5** and can be downloaded from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Presenter** App includes the **Pochi Viewer** App. 
@@ -85,6 +85,6 @@ The following *Privacy Policy* applies to **Pochi Presenter App** and **Pochi Vi
  
 **Pochi Presenter App** and **Pochi Viewer App** do not;
  
-    collect, access or disclose any personal information,
+    collect, access or record any personal information,
     collect, access or record any location information,
     collect, access or record any other information.
