@@ -85,12 +85,12 @@ The following *Privacy Policy* applies to **Pochi Presenter App** and **Pochi Vi
  
 **Pochi Presenter App** and **Pochi Viewer App** do not;
  
-    collect, access or record any personal information,
-    collect, access or record any location information,
-    collect, access or record any other information,
-    contain any In-App purchase,
-    display any advertising,
-    ask for credit card number, 
-    ask for login information,
-    lock you into subscription.
+* collect, access or record any personal information,
+* collect, access or record any location information,
+* collect, access or record any other information,
+* contain any In-App purchase,
+* display any advertising,
+* ask for credit card number, 
+* ask for login information,
+* lock you into subscription.
     
