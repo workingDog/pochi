@@ -24,7 +24,7 @@ The **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 ![presenter](images/presenterpage1.png)
 
-A presentation can be created using a number of tools such as *Apple Pages or Preview*, *Microsoft PowerPoint* or 
+A presentation can be created using a number of tools such as *Apple Keynote, Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, jpeg, gif or tif* can also be loaded individually. 
