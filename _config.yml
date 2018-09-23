@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 exclude: [readme.txt]
+favicon: favicon.ico
 github:
   is_project_page: false
