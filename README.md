@@ -22,7 +22,7 @@ The **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 # The Presenter App
 
-![presenter](images/presenterpage1.png)
+![presenter](images/presenter1.png)
 
 A presentation can be created using a number of tools such as *Apple Keynote, Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
@@ -37,19 +37,19 @@ To deselect a presentation simply tap the selection again.
 With a presentation selected, pressing the **Start** button will display the presentation 
 and broadcast its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
 
-![presenter](images/presenterpage2.png)
+![presenter](images/presenter2.png)
 
 Different pages can be selected using the thumbnail bar or by swiping left and right.
  
 A presentation can be annotated using the drawing tool provided after pressing the draw tool icon.
 
-![presenter](images/presenterpage3.png)
+![presenter](images/presenter3.png)
 
 When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
 collection of empty whiteboards for the presenter to draw on using the drawing tool. The boards 
 consist of 3 whiteboards, 3 chalkboards and 3 blackboards.
 
-![presenter](images/presenterpage4.png)
+![presenter](images/presenter4.png)
 
 When not in drawing mode, tapping on the presentation or whiteboard will hide or show the navigation bar 
 and the thumbnail pages, however swiping left and right to change page remains active.
@@ -64,13 +64,13 @@ The user selects the presentation to follow by tapping on the desired presentati
 It takes a few seconds for a presentation to appear in the list. If a presentation is expected, 
 but it is not shown in the list, try pressing the **Refresh** button.
  
-![viewer](images/viewerpage1.png)
+![viewer](images/viewer1.png)
 
 Once a presentation is selected, the current page will be displayed and the App will download the full presentation in the background. 
 The number of pages downloaded to date is displayed next to the presentation name. 
 When all pages have been downloaded, only the title name will be displayed.
  
-![viewer](images/viewerpage2.png)
+![viewer](images/viewer2.png)
 
 The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation by pressing 
 the **share** button. Note that these functions will use the current number of pages downloaded to date.
