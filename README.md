@@ -20,6 +20,11 @@ The **Pochi Viewer** App includes a trial *Presenter* function that is disabled 
 The **Pochi Presenter** App cost **USD $4.99** and will soon be available from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
+
+The **Pochi Presenter** App is in testing phase, you can download it at:
+
+ 
+
 # The Presenter App
 
 ![presenter](images/presenter1.png)
@@ -81,16 +86,36 @@ the **share** button. Note that these functions will use the current number of p
 
 # Privacy Policy
  
-The following *Privacy Policy* applies to **Pochi Presenter App** and **Pochi Viewer App**.
+The following *Privacy Policy* applies to **Pochi Presenter** and **Pochi Viewer** Apps.
  
-**Pochi Presenter App** and **Pochi Viewer App** do not;
+##### Information Collection, Use, and Sharing
  
-* collect, access or record any personal information,
-* collect, access or record any location information,
-* collect, access or record any other information,
-* contain any In-App purchase,
-* display any advertising,
-* ask for credit card number, 
-* ask for login information,
-* lock you into subscription.
-    
+**Pochi Presenter** and **Pochi Viewer** (the Apps) do not:
+ 
+ * collect, access or record any personal information,
+ * collect, access or record any location information,
+ * collect, access or record any other information,
+ * contain any In-App purchase,
+ * display any advertising,
+ * ask for credit card number, 
+ * ask for login information,
+ * lock you into subscription.
+   
+ We only have access to information that you voluntarily give us via email 
+ or other direct contact from you. We will not sell or rent this information to anyone.
+ 
+ We will use your information to respond to you, regarding the reason you contacted us. 
+ We will not share your information with any third party outside of our organization, 
+ other than as necessary to fulfill your request.
+ 
+ Unless you ask us not to, we may contact you via email in the future to answer your 
+ questions regarding the **Apps** 
+ or changes to this privacy policy.
+ 
+##### Your Access to and Control Over Information 
+ 
+You may opt out of any future contacts from us at any time. 
+ 
+If you feel that we are not abiding by this privacy policy, you should contact us 
+immediately via email <pochi.assist@gmail.com>.
+ 
