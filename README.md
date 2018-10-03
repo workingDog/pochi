@@ -22,11 +22,10 @@ The **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 
 ## The **Pochi Presenter** App is in testing phase, you can download it here
+ [Pochi Presenter download](https://testflight.apple.com/join/NOhenDzb)
+ 
 
-<https://testflight.apple.com/join/NOhenDzb>
- 
- 
- 
+
 
 # The Presenter App
 
