@@ -20,10 +20,9 @@ The **Pochi Viewer** App includes a trial *Presenter* function that is disabled 
 The **Pochi Presenter** App cost **USD $4.99** and will soon be available from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
 The **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
-
+<span style="color:red">
 ## Pochi is in testing phase, you can download it here **[Pochi Presenter download](https://testflight.apple.com/join/NOhenDzb)**
- 
-
+</span> 
 
 
 # The Presenter App
