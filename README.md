@@ -2,7 +2,7 @@
 **Pochi** allows a presenter with an iPad or iPhone to share a presentation with other iPads and iPhones in the audience. 
 As the presenter flips through the presentation pages, the viewer devices instantly and securely receive the updated pages.
 
-![overview](images/overview.png)
+![overview](images/overview1.png)
 
 **Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
