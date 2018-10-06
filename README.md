@@ -22,7 +22,6 @@ The **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 
 ### Pochi is in testing phase, you can download it here 
-
 ### [Pochi Presenter download](https://testflight.apple.com/join/NOhenDzb) 
 
 
