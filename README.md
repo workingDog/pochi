@@ -34,9 +34,9 @@ A presentation can be created using a number of tools such as *Apple Keynote, Pa
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
 In addition photos with format *png, jpg, jpeg, gif or tif* can also be loaded individually. 
-A presentation can optionally require a password. When a password is set, *Viewers* will be asked 
-for that password in order to view the presentation. The communication between the *Presenter* 
-and the *Viewers* are made secure in this case.
+A presentation can optionally require a password. When a password is set, **Viewers** will be asked 
+for that password in order to view the presentation. The communication between the **Presenter**
+and the **Viewers** are made secure in this case.
 
 A presentation name with a gray background indicates the presentation is selected. 
 To deselect a presentation simply tap the selection again. 
