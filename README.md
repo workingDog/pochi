@@ -1,5 +1,5 @@
 
-**Pochi** allows a presenter with an iPad or iPhone to share a presentation with other iPads and iPhones in the audience. 
+**Pochi** allows a presenter with an iPad, iPhone or a Mac to share a presentation with other iPads, iPhones and Macs in the audience. 
 As the presenter flips through the presentation pages, the viewer devices instantly and securely receive the updated pages.
 
 ![overview](images/overview1.png)
@@ -14,15 +14,21 @@ a presenter selects a presentation from the device *Files folder, iCloud, Dropbo
 and press the **Start** button. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
-The **Pochi Viewer** App is *free* and will soon be available from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
-The **Pochi Viewer** App includes a trial *Presenter* function that is disabled after *7 days*.
+##### For iPad and iPhone
 
-The **Pochi Presenter** App cost **USD $4.99** and will soon be available from the [Apple Store](https://itunes.apple.com/us/app/apple-store/id375380948?mt=8).
-The **Pochi Presenter** App includes the **Pochi Viewer** App. 
+The **Pochi Viewer** App for iOS is *free* and will soon be available from the [Apple Store]().
+The **Pochi Viewer** App for iOS includes a trial *Presenter* function that is disabled after *7 days*.
 
+The **Pochi Presenter** App for iOS cost **USD $4.99** and will soon be available from the [Apple Store]().
+This **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
-### Pochi for iOS-12 is in testing phase, you can download it here 
-### [Pochi Presenter download](https://testflight.apple.com/join/hn2Qp0vK)
+#### Pochi for iOS-12 is in testing phase, you can download it here 
+#### [Pochi Presenter download](https://testflight.apple.com/join/hn2Qp0vK)
+
+##### For Mac
+
+The **Pochi Presenter** App for Mac is *free* and will soon be available from the [Apple Store]().
+This **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
 
 # The Presenter App
@@ -91,7 +97,7 @@ The following *Privacy Policy* applies to **Pochi Presenter** and **Pochi Viewer
  
 ##### Information Collection, Use, and Sharing
  
-**Pochi Presenter** and **Pochi Viewer** (the Apps) do not:
+**Pochi Presenter** and **Pochi Viewer** (the Apps) for iOS and macOS do not:
  
  * collect, access or record any personal information,
  * collect, access or record any location information,
