@@ -89,7 +89,7 @@ the **share** button. Note that these functions will use the current number of p
  
 # Pochi assist
 
-Please send all correspondence regarding the **Pochi** Apps to: <pochi.assist@gmail.com>
+Please address all correspondence regarding the **Pochi** Apps to: <pochi.assist@gmail.com>
 
 # Privacy Policy
  
