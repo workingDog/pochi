@@ -4,7 +4,7 @@ As the presenter flips through the presentation pages, the viewer devices instan
 
 ![overview](images/overview1.png)
 
-**Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the **Pochi Viewer** App.
+**Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the free **Pochi Viewer** App.
 The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
 the **Pochi Viewer** App is used by the audience to view the presentation.
 Both Apps need to be connected to the same local *Wi-Fi* network to work with each other.
