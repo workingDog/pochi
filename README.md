@@ -41,13 +41,11 @@ That presentation must be saved as a PDF document for **Pochi Presenter** to use
 In addition photos with format *png, jpg, jpeg, gif or tif* can also be loaded individually. 
 A presentation can optionally require a password. When a password is set, **Viewers** will be asked 
 for that password in order to view the presentation. The communication between the **Presenter**
-and the **Viewers** are made secure in this case.
+and the **Viewers** is made secure in this case.
 
-A presentation name with a gray background indicates the presentation is selected. 
-To deselect a presentation simply tap the selection again. 
-
-With a presentation selected, pressing the **Start** button will display the presentation 
-and broadcast its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
+To select a presentation press the **Presentation** button and navigate to the document you want. 
+Once a PDF document is selected the presentation will be displayed and will broadcast 
+its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
 
 ![presenter](images/presenter2.png)
 
@@ -57,7 +55,7 @@ A presentation can be annotated using the drawing tool provided after pressing t
 
 ![presenter](images/presenter3.png)
 
-When no presentation is selected and the **Start** button is pressed, **Pochi Presenter** will display a 
+When the **Whiteboard** button is pressed, **Pochi Presenter** will display a 
 collection of empty whiteboards for the presenter to draw on using the drawing tool. The boards 
 consist of 3 whiteboards, 3 chalkboards and 3 blackboards.
 
