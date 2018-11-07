@@ -1,0 +1,130 @@
+
+/* Class = "NSMenuItem"; title = "pochi"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "pochi";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
+"4J7-dP-txa.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Quit pochi"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit pochi";
+
+/* Class = "NSMenuItem"; title = "About pochi"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About pochi";
+
+/* Class = "NSTextFieldCell"; placeholderString = "presentation name"; ObjectID = "6nK-If-Awc"; */
+"6nK-If-Awc.placeholderString" = "presentation name";
+
+/* Class = "NSTextFieldCell"; title = "mac test"; ObjectID = "6nK-If-Awc"; */
+"6nK-If-Awc.title" = "mac test";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
+"Bw7-FT-i3A.title" = "Save As…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Close";
+
+/* Class = "NSTabViewItem"; label = "Presenter"; ObjectID = "Efc-cc-FRy"; */
+"Efc-cc-FRy.label" = "Presenter";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "pochi Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "pochi Help";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "Text";
+
+/* Class = "NSTabViewItem"; label = "Viewer"; ObjectID = "Gjs-bm-G6w"; */
+"Gjs-bm-G6w.label" = "Viewer";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "View";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "Open…";
+
+/* Class = "NSWindow"; title = "Pochi"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Pochi";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Nop-cj-93Q"; */
+"Nop-cj-93Q.title" = "\tDefault";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide pochi"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide pochi";
+
+/* Class = "NSTextFieldCell"; title = "Presentations"; ObjectID = "QVn-4h-ubS"; */
+"QVn-4h-ubS.title" = "Presentations";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSTextFieldCell"; title = "Presentations"; ObjectID = "dVG-b2-Iwf"; */
+"dVG-b2-Iwf.title" = "Presentations";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "presentation password"; ObjectID = "fcZ-Q9-F2Z"; */
+"fcZ-Q9-F2Z.placeholderString" = "presentation password";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "hnb-Vb-vyH"; */
+"hnb-Vb-vyH.title" = "Done";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSButtonCell"; title = "<"; ObjectID = "kcX-Zc-DCE"; */
+"kcX-Zc-DCE.title" = "<";
+
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "nEE-iV-O7D"; */
+"nEE-iV-O7D.title" = "Refresh";
+
+/* Class = "NSButtonCell"; title = ">"; ObjectID = "oTe-X5-dm3"; */
+"oTe-X5-dm3.title" = ">";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "Open Recent";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "Save…";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "tpQ-gx-jB9"; */
+"tpQ-gx-jB9.title" = "Done";
+
+/* Class = "NSMenu"; title = "pochi"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "pochi";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* the thumbnail button title */
+"E8b-ho-ZBt.title" = "Thumbnail";
+
+"8CD-IX-cQM.title" = "   演讲   ";
+"SNj-Yq-MFz.title" =  "   白板   ";
+
