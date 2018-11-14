@@ -29,7 +29,7 @@ This **Pochi Presenter** App includes the **Pochi Viewer** App.
 The **Pochi Presenter** App for Mac is *free* and will soon be available from the [Apple Store]().
 This **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
-### [Pochi Presenter Mac App free download](files/pochi.app.zip)
+### [Pochi Presenter Mac test App download](files/pochi.app.zip)
 
 
 
