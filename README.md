@@ -18,7 +18,7 @@ by selecting it from a list.
 The **Pochi Viewer** App for iOS is *free* and will soon be available from the [Apple Store]().
 The **Pochi Viewer** App for iOS includes a trial *Presenter* function that is disabled after *7 days*.
 
-The **Pochi Presenter** App for iOS cost **USD $4.99** and will soon be available from the [Apple Store]().
+The **Pochi Presenter** App for iOS costs **USD $4.99** and will soon be available from the [Apple Store]().
 This **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
 ### Pochi Presenter for iOS-12 is in testing phase, you can download it here for free 
