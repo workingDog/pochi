@@ -31,7 +31,7 @@ This **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 ### [Pochi Presenter Mac test App download](files/pochi.app.zip)
 
-
+ then open the **welcome-to-pochi.pdf** document
 
 # The Presenter App
 
