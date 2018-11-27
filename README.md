@@ -22,7 +22,7 @@ The **Pochi Presenter** App for iOS costs **USD $4.99** and will soon be availab
 This **Pochi Presenter** App includes the **Pochi Viewer** App. 
 
 ### Pochi Presenter for iOS-12 is in testing phase, you can download it here for free 
-### [Pochi Presenter iOS App download](https://testflight.apple.com/join/YgGfrqP1)
+### [Pochi Presenter iOS App download](https://testflight.apple.com/join/lQd6A4aS)
 
 #### For Mac
 
