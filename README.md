@@ -31,10 +31,10 @@ This **Pochi Presenter** App includes the **Pochi Viewer** App.
 
 ### [Pochi Presenter Mac test App download](files/pochi.app.zip)
 
-Note: to zoom in or out, use the **+** and **-** keys. 
+Note: with the Mac App, to zoom in or out, use the **+** and **-** keys. 
 To adjust the position of the document inside the zoomed window, 
 press the **Command** key and the **left arrow** or **right arrow** key to 
-move sideways and similarly the **Command** key and the **up arrow** or the **down arrow** key for vertical moves.
+move sideways, similarly the **Command** key and the **up arrow** or the **down arrow** key for vertical moves.
 
 # The Presenter App
 
