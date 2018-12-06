@@ -24,8 +24,6 @@ This **Pochi Presenter** App includes the **Pochi Viewer** App.
 ### Pochi Presenter and Pochi Viewer for iOS-12 are in testing phase, you can download them here for free 
 ### [Pochi Presenter iOS App download](https://testflight.apple.com/join/lQd6A4aS)
 
-### [Pochi Viewer iOS App download](https://testflight.apple.com/join/0pQvqqsi)
-
 
 #### For Mac
 
