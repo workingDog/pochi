@@ -22,7 +22,7 @@ The **Pochi Presenter** App for iOS costs **USD $4.99** and will soon be availab
 The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App. 
 
 ### Pochi Presenter for iOS-12 is in testing phase, you can download it here for free 
-### [Pochi Presenter iOS App download](https://testflight.apple.com/join/O84zrHjI)
+### [Pochi Presenter iOS App download](https://testflight.apple.com/join/Rws5Umyi)
 
 
 #### For Mac
@@ -36,7 +36,7 @@ The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App.
 
 # The Presenter App
 
-![presenter](images/presenter1.png)
+![presenter](images/presenter1.jpg)
 
 A presentation can be created using a number of tools such as *Apple Keynote, Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
@@ -50,13 +50,13 @@ To select a presentation press the **Presentation** button and navigate to the d
 Once a PDF document is selected the presentation will be displayed and will broadcast 
 its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
 
-![presenter](images/presenter2.png)
+![presenter](images/presenter2.jpg)
 
 Different pages can be selected using the thumbnail bar or by swiping left and right.
  
 A presentation can be annotated using the drawing tool provided after pressing the draw tool icon.
 
-![presenter](images/presenter3.png)
+![presenter](images/presenter3.jpg)
 
 When the **Whiteboard** button is pressed, **Pochi Presenter** will display a 
 collection of empty whiteboards for the presenter to draw on using the drawing tool. The boards 
