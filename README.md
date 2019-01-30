@@ -15,10 +15,10 @@ by selecting it from a list.
 
 #### For iPad and iPhone
 
-The **Pochi Viewer** App for iOS is *free* and will soon be available from the [Apple Store]().
+The **Pochi Viewer** App for iOS is *free* and is available on the [Apple Store](https://itunes.apple.com/us/app/pochi-viewer/id1445647492?ls=1&mt=8).
 The **Pochi Viewer** App for iOS includes a trial *Presenter* function that is disabled after *7 days*.
 
-The **Pochi Presenter** App for iOS costs **USD $4.99** and will soon be available from the [Apple Store]().
+The **Pochi Presenter** App for iOS costs **USD $4.99** and will soon be available on the [Apple Store]().
 The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App. 
 
 ### Pochi Presenter for iOS-12 is in testing phase, you can download it here for free 
