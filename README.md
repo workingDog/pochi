@@ -10,7 +10,7 @@ the **Pochi Viewer** App is used by the audience to view the presentation.
 Both Apps need to be connected to the same local *Wi-Fi* network to work with each other.
 
 With the **Pochi Presenter** App, 
-a presenter starts by selecting a presentation document from the device *Files folder, iCloud, Dropbox* or other storage. The **Pochi Viewer** App is then able to follow that presentation 
+a presenter starts by selecting a presentation document from the device *Files folder, iCloud Drive, Dropbox* or other storage. The **Pochi Viewer** App is then able to follow that presentation 
 by selecting it from a list.
 
 #### For iPad and iPhone
@@ -38,7 +38,6 @@ The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App.
 A presentation can be created using a number of tools such as *Apple Keynote, Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
-In addition photos with format *png, jpg, jpeg, gif or tif* can also be loaded individually. 
 A presentation can optionally require a password. When a password is set, **Viewers** will be asked 
 for that password in order to view the presentation. The communication between the **Presenter**
 and the **Viewers** is made secure in this case.
