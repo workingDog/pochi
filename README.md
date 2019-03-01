@@ -29,7 +29,8 @@ The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App.
 
 ### [Pochi Presenter App for Mac download](files/pochi.app.zip)
 
-
+Note after uncompressing, to run the App press and hold the Control key and left–click on the app icon. 
+Then, select Open from the contextual menu.
 
 # The Presenter App
 
