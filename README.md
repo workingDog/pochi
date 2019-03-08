@@ -27,8 +27,7 @@ The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App.
 The **Pochi Presenter** App for Mac is *free* and is available on the [Apple Store](https://itunes.apple.com/jp/app/pochi-presenter/id1454321927?l=en&mt=12).
 The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App. 
 
-Next update of the **Mac Pochi Presenter** App can be downloaded here, 
- [Mac Pochi Presenter Update](files/pochi.app.zip).
+The next update of the **Mac Pochi Presenter App** can be downloaded from the **files directory**.
 
 # The Presenter App
 
