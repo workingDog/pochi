@@ -1,53 +1,50 @@
 
-**Pochi** allows a presenter with an iPad, iPhone or a Mac to share a presentation with other iPads, iPhones and Macs in the audience. 
+**Pochi Presenter** allows a presenter with an iPad, iPhone or a Mac to share a presentation with other iPads, iPhones and Macs in the audience. 
 As the presenter flips through the presentation pages, the viewer devices instantly and securely receive the updated pages.
 
 ![overview](images/overview1.png)
 
-**Pochi** is really two applications talking to each other, one is the **Pochi Presenter** App and the other is the free **Pochi Viewer** App.
-The **Pochi Presenter** App is used by presenters to share and interact with their presentation, and 
-the **Pochi Viewer** App is used by the audience to view the presentation.
-Both Apps need to be connected to the same local *Wi-Fi* network to work with each other.
+The **Pochi Presenter** App is used by presenters to share and interact with their presentation, 
+it is also used by the audience to view the presentation.
+The presenter and the audience Apps need to be connected to the same local *Wi-Fi* network to work with each other.
 
-With the **Pochi Presenter** App, 
-a presenter starts by selecting a presentation document from the device *Files folder, iCloud Drive, Dropbox* or other storage. The **Pochi Viewer** App is then able to follow that presentation 
-by selecting it from a list.
+The **Pochi Presenter** App has 2 modes, a **Presenter** mode where a presenter can select and interact with a presentation 
+document, and a **Viewer** mode where the audience is able to follow that presentation on their device.
 
 #### For iPad and iPhone
 
-The **Pochi Viewer** App for iOS is *free* and is available on the [Apple Store](https://itunes.apple.com/us/app/pochi-viewer/id1445647492?ls=1&mt=8).
-The **Pochi Viewer** App for iOS includes a trial *Presenter* function that is disabled after *7 days*.
-
-The **Pochi Presenter** App for iOS costs **USD $4.99** and is available on the [Apple Store](https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8).
-The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App. 
-
+The **Pochi Presenter** App for iOS is **free** and is available on the [Apple Store](https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8).
 
 #### For Mac
 
-The **Pochi Presenter** App for Mac is *free* and is available on the [Apple Store](https://itunes.apple.com/jp/app/pochi-presenter/id1454321927?l=en&mt=12).
-The **Pochi Presenter** App includes all functions of the **Pochi Viewer** App. 
+The **Pochi Presenter** App is also available for Mac, it is also **free** and is available on the Mac [Apple Store](https://itunes.apple.com/jp/app/pochi-presenter/id1454321927?l=en&mt=12).
+
+# Branding and customisation
+
+The plain **Pochi Presenter** App can be customised and branded to your specific requirements, contact us at <pochi.assist@gmail.com> 
+for a quote.
 
 
-# The Presenter App
+# The Presenter mode
 
 ![presenter](images/presenter1.png)
 
 A presentation can be created using a number of tools such as *Apple Keynote, Pages or Preview*, *Microsoft PowerPoint* or 
 *Adobe PDF tools*.
 That presentation must be saved as a PDF document for **Pochi Presenter** to use.
-A presentation can optionally require a password. When a password is set, **Viewers** will be asked 
+A presentation can optionally require a password. When a password is set, the **Viewers** will be asked 
 for that password in order to view the presentation. The communication between the **Presenter**
 and the **Viewers** is made secure in this case.
 
 To select a presentation press the **Presentation** button and navigate to the document you want. 
 Once a PDF document is selected the presentation will be displayed and will broadcast 
-its presence to the **Pochi Viewer** Apps using the local *Wi-Fi* network. 
+its presence to the audience **Pochi Presentation** Apps using the local *Wi-Fi* network. 
 
 ![presenter](images/presenter2.png)
 
 Different pages can be selected using the thumbnail bar or by swiping left and right.
  
-A presentation can be annotated using the drawing tool provided after pressing the draw tool icon.
+A presentation can be annotated using the drawing tool provided by pressing the draw tool icon.
 
 ![presenter](images/presenter3.png)
 
@@ -60,11 +57,11 @@ consist of 3 whiteboards, 3 chalkboards and 3 blackboards.
 When not in drawing mode, tapping on the presentation or whiteboard will hide or show the navigation bar 
 and the thumbnail pages, however swiping left and right to change page remains active.
 
-# The Viewer App
+# The Viewer mode
 
-The **Pochi Viewer** App receives the presentation initiated by the **Pochi Presenter** App, it is used to passively view the presentation. 
+The App **Viewer** mode receives the presentation initiated by the presenter, it is used to passively view the presentation. 
 
-The main page of the **Pochi Viewer** App shows a list of active presentations. 
+The main page of the **Viewer** mode shows a list of active presentations. 
 The user selects the presentation to follow by tapping on the desired presentation name.
 
 It takes a few seconds for a presentation to appear in the list. If a presentation is expected, 
@@ -78,28 +75,29 @@ When all pages have been downloaded, only the title name will be displayed.
  
 ![viewer](images/viewer2.png)
 
-The **Pochi Viewer** App also allows for printing, saving and sharing of the presentation by pressing 
+The App **Viewer** mode also allows for printing, saving and sharing of the presentation by pressing 
 the **share** button. Note that these functions will use the current number of pages downloaded to date.
  
 # Pochi assist
 
-Please address all correspondence regarding the **Pochi** Apps to: <pochi.assist@gmail.com>
+Please address all correspondence regarding the **Pochi Presenter** App to: <pochi.assist@gmail.com>
 
 # Privacy Policy
  
-The following *Privacy Policy* applies to **Pochi Presenter** and **Pochi Viewer** (the Apps) for iOS and macOS.
+The following *Privacy Policy* applies to **Pochi Presenter** for iOS and macOS (the Apps).
  
 ##### Information Collection, Use, and Sharing
  
-**Pochi Presenter** and **Pochi Viewer** Apps do not:
+**Pochi Presenter** Apps do not:
  
  * collect, access or record any personal information,
  * collect, access or record any location information,
  * collect, access or record any other information,
  * contain any In-App purchase,
  * display any advertising,
- * ask for credit card number, 
+ * ask for credit card number or any payment, it is free, 
  * ask for login information,
+ * ask for any personal information,
  * lock you into subscription.
    
  We only have access to information that you voluntarily give us via email 
