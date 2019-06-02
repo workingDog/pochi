@@ -8,8 +8,10 @@ The **Pochi Presenter** App is used by presenters to share and interact with the
 it is also used by the audience to view the presentation.
 The presenter and the audience Apps need to be connected to the same local *Wi-Fi* network to work with each other.
 
-The **Pochi Presenter** App has 2 modes, a **Presenter** mode where a presenter can select and interact with a presentation 
-document, and a **Viewer** mode where the audience is able to follow that presentation on their device.
+The App has 2 separate modes, a **Presenter** mode where a presenter can select a 
+presentation from the device Files folder, iCloud Drive or other storage or a set of 
+whiteboards, and a **Viewer** mode where the audience is able to follow that presentation on their device.
+
 
 #### For iPad and iPhone
 
